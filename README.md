@@ -1,2 +1,4 @@
 # MSMEPortal
-MINOR PROJECT ABOUT CONNECTING ROOT MANUFACTURERS TO NRI's SITTING ABROAD.
+Connecting Root Manufacturers to NRI's Abroad.
+
+Will be live soon.
